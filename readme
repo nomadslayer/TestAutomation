@@ -1,0 +1,14 @@
+Selenium Automation Framework
+This is a UI Automation Framework meant to be used with SpecFlow and Selenium WebDriver
+
+What it is
+This project is aimed at setting up the basic architecture for those seeking to implement test automation using .net core. 
+
+What has been completed
+1. Migration to .net core
+2. Implementation of many different browser where the latest Chrome
+
+To do list
+1. Prepare samples to usage
+2. Removal of Safari browser
+3. Migration from Microsoft Unit Test to NUnit
